@@ -1,4 +1,4 @@
-// Author: Limacon
+// Author: The other Limacon
 
 var express = require("express")
 var request = require("request")
